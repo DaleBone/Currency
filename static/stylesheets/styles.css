@@ -1,0 +1,9 @@
+body{
+    background: orangered;
+    font-family: cursive;
+    color: azure;
+}
+
+input, button, select{
+    margin: 5px;
+}
